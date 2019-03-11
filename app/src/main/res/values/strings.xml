@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tarefa</string>
+
+    <string name="base_url">http://</string>
+
+    <string name="call">Ligar</string>
+    <string name="services">Serviços</string>
+    <string name="address">Endereço</string>
+    <string name="Comments">Comentários</string>
+    <string name="favorites">Favoritos</string>
+    <string name="ok">Ok</string>
+    <string name="list">Lista</string>
+
+
+    <string name="top_bar_title">%1$s - %2$s</string>
+</resources>
